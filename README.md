@@ -11,6 +11,7 @@ your-folder/
 ├── index.html   # Game canvas and layout
 ├── style.css    # Retro styling
 ├── game.js      # Game logic and AI
+├── LICENSE      # License - MIT
 └── README.md
 ```
 
